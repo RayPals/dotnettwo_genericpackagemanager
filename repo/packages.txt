@@ -1,1 +1,2 @@
-
+x86 4.10 U98SESP365 3.65 http://www.techtalk.cc/download/U98SESP3.65.EXE
+x64 5.2 Supermium 128.7 https://github.com/win32ss/supermium/releases/download/v126-r7/supermium_126_64_setup.exe
