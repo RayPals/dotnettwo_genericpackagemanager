@@ -1,0 +1,3 @@
+packageRepository=http://example.com/packages
+driverRepository=http://example.com/drivers
+defaultInstallPath=C:\Program Files\MyPkgMgr
